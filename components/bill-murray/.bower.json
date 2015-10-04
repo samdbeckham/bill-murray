@@ -1,0 +1,38 @@
+{
+  "name": "bill-murray",
+  "authors": [
+    "Sam Beckham sam@beckham.io"
+  ],
+  "description": "Need a Bill Murray placeholder image? Look no further.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "bill-murray.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/samdbeckham/bill-murray/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "0ca5eaa38b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0ca5eaa38bb4e85d4d1e6127b4423bdb8c1d24e8"
+  },
+  "_source": "git://github.com/samdbeckham/bill-murray.git",
+  "_target": "master",
+  "_originalSource": "samdbeckham/bill-murray",
+  "_direct": true
+}
